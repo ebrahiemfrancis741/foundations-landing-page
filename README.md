@@ -1,0 +1,1 @@
+This is an implementation of a landing page design from The Odin Prject.
